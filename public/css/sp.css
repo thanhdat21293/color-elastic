@@ -1,0 +1,38 @@
+@font-face {
+    font-family: overpassBold;
+    src: url('../fonts/overpass-mono/overpass-mono-bold.woff');
+}
+
+@font-face {
+    font-family: overpassRegular;
+    src: url('../fonts/overpass-mono/overpass-mono-regular.woff');
+}
+
+@font-face {
+    font-family: overpassSemiBold;
+    src: url('../fonts/overpass-mono/overpass-mono-semibold.woff');
+}
+
+.or {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.btn-facebook{
+	background-color: #3b5998;
+	color: #fff;
+    font-size:15px;
+}
+.btn-facebook:hover{
+	background-color: #334F8A;
+	color: #fff;
+}
+.btn-google{
+	background-color: #c23321;
+	color: #fff;
+    font-size:15px;
+}
+.btn-google:hover{
+	background-color: #B53121;
+	color: #fff;
+}
